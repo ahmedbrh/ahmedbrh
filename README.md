@@ -6,7 +6,7 @@ Also for an apprenticeship for 3 year (summer2021) 😃
 
 
 ## About me 
-- 💼 lokking for  Intership & apprenticeship 
+- 💼 looking for  Intership & apprenticeship 
 - 🔭 I’m currently working on an WebApp 🤫
 - 🌱 I’m currently learning ReactJs&Redux
 - 👯 I’m looking to collaborate on ReactJs
