@@ -13,6 +13,6 @@ I'm currently in 2nd year (2eme année cycle préparatoire intégrée) and i am 
 - 💬 Ask me about Java-JavaScript
 - 💪🏼 Hobbies : 🏋️Powerlifting -🏊‍Swimmming-⚽Foot
 - 📫 How to reach me: Brhiliahmed@gmail.com
-
+- 💯 Skills:  Java - JavaScript
 --> Feel free to contact me with any serious questions or inquiries .I would be happy to answer you questions and setup a meeting with you
 
