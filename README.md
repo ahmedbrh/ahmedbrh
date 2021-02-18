@@ -8,8 +8,7 @@ I'm currently in 2nd year (2eme année cycle préparatoire intégrée) and i am 
 ## About me 
 - 💼 looking for  Intership & apprenticeship 
 - 🔭 I’m currently working on an WebApp 🤫
-- 🌱 I’m currently learning ReactJs&Redux
-- 👯 I’m looking to collaborate on ReactJs
+- 🌱 I’m currently learning Redux-Django 
 - 💪🏼 Hobbies : 🏋️Powerlifting -🏊‍Swimmming-⚽Foot
 - 📫 How to reach me: Brhiliahmed@gmail.com
 - 💯 Skills:  Java -JavaScript-Python 
