@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋🏼
 Hey my name is Ahmed Brhili i am 19 yo and im a computer science Student in 3il **_(Institute for Computer Science and Engineering of Limoges)_**
 
 I'm currently in 2nd year (2eme année cycle préparatoire intégrée) and i am looking for a 2/3 months internship in computer development, starting 13 May 2021 ⏰.
