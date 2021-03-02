@@ -13,5 +13,5 @@ I'm currently in 2nd year (2eme année cycle préparatoire intégrée) and i am 
 - 📫 How to reach me: Brhiliahmed@gmail.com
 - 💯 Skills:  Java -JavaScript-Python 
 
---> Feel free to contact me with any serious questions or inquiries .I would be happy to answer you questions and setup a meeting with you
+--> Feel free to contact me with any serious questions or inquiries .I would be happy to answer your questions and setup a meeting with you
 
