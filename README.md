@@ -5,7 +5,7 @@ Hey my name is Ahmed Brhili i am 19 yo and im a computer science Student in 3il 
 ## About me 
 - 💼 looking for  Intership & apprenticeship 
 - 🔭 I’m currently working on an WebApp 🤫
-- 🌱 I’m currently learning Redux-Django 
+- 🌱 I’m currently learning Django 
 - 💪🏼 Hobbies : 🏋️Powerlifting -🏊‍Swimmming-⚽Foot
 - 📫 How to reach me: Brhiliahmed@gmail.com
 - 💯 Skills:  Java -JavaScript-Python 
