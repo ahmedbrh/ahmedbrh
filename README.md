@@ -3,7 +3,6 @@ Hey my name is Ahmed Brhili i am 19 yo and im a computer science Student in 3il 
 
 
 ## About me 
-- 🌱 I’m currently learning Django & Arduino 
 - 💪🏼 Hobbies : 🏋️Powerlifting -🏊‍Swimmming-⚽Foot
 - 📫 How to reach me: +33 X PP QQ LL RR
 - 💯 Skills:  Java -JavaScript-Python 
